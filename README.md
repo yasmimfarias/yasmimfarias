@@ -1,6 +1,6 @@
 ### Olá, eu sou a Yasmim Farias
 
-- 💻 Estou em um desenvolvimento profissional 
+- 🌱 Estou em um desenvolvimento profissional 
 - 📚 Estudando HTML, CSS e JavaScript
 
 <div>
