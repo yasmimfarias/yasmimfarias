@@ -1,7 +1,7 @@
 ### Olá, eu sou a Yasmim Farias
 
 - 🌱 Estou em um desenvolvimento profissional 
-- 📚 Estudando HTML, CSS e JavaScript
+- 📚 Estudando Java, JavaScript
 
 <div>
   <a href="https://beacons.ai/yasmimfarias">
