@@ -11,11 +11,11 @@
 
 Sou estudante de Ciência da Computação e apaixonada por tecnologia e desenvolvimento de software. Busco constantemente aprimorar meus conhecimentos e transformar ideias em soluções através da programação.
 
-- 🎓 Graduanda em Ciência da Computação.
-- 💻 Atuo com desenvolvimento em C#, .NET e WPF.
-- 🚀 Interesse em desenvolvimento Back-End e arquitetura de software.
-- 📚 Aprimorando meus conhecimentos em programação e boas práticas de desenvolvimento.
-- 💡 Apaixonada por tecnologia, desafios e aprendizado contínuo.
+- Graduanda em Ciência da Computação.
+- Atuo com desenvolvimento em C#, .NET e WPF.
+- Interesse em desenvolvimento Back-End.
+- Aprimorando meus conhecimentos em programação e boas práticas de desenvolvimento.
+- Apaixonada por tecnologia, desafios e aprendizado contínuo.
 
 ## ✦ Tecnologias e ferramentas
 
