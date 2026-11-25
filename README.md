@@ -3,9 +3,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Desenvolvedora+de+Software;Estudante+de+Ciência+da+Computação;Desenvolvimento+C%23+%26+.NET;Sempre+aprendendo+algo+novo" />
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedora+de+Software;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;C%23+%7C+.NET+%7C+WPF;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
 ## ✦ Sobre mim
 
