@@ -1,7 +1,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c3aed&height=180&section=header&text=Yasmim%20Farias&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
+<div align="center">
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedora+de+Software;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;C%23+%7C+.NET+%7C+WPF;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+
+</div>
 
 ## ✦ Sobre mim
 
